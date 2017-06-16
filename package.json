@@ -1,5 +1,5 @@
 {
-  "name": "grommet-css",
+  "name": "grommet-css-fantasymath",
   "version": "1.0.0",
   "description": "Standalone css for grommet ui library.",
   "main": "build/index.min.css",
